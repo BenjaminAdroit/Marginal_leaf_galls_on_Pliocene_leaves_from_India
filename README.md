@@ -1,6 +1,5 @@
-# Rare insect damage in the Pliocene of India
->[!NOTE]
-> Supplementary material from "New discovery of rare insect damage in the Pliocene of India reinforces the biogeographic history of Eurasian ecosystems"
+# Marginal leaf galls on Pliocene leaves from India
+> Supplementary material from "Marginal leaf galls on Pliocene leaves from India indicate mutualistic behavior between Ipomoea plants and Eriophyidae mites"
 
 **Reference**
 Hazra, T., Adroit, B.*, Denk, T., Wappler, T., Sarkar, S.K., Bera, S., Khan, M.A. (2023). Marginal leaf galls on Pliocene leaves from India indicate mutualistic behavior between Ipomoea plants and Eriophyidae mites. Scientific Reports, 13(1), 5702. https://doi.org/10.1038/s41598-023-31393-2
